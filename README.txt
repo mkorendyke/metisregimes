@@ -23,3 +23,7 @@ Data used:
 Atmospheric rivers:
 
 1. Get atmospheric river variables from ERA5: subset.AR.ERA5.ipynb
+
+2. For ERA5 data: calculate moisture flux using calc_vqvi.AR.ERA5.ipynb
+
+3. Identify atmospheric rivers given moisture flux using AR_notrack_2.ipynb
