@@ -31,3 +31,5 @@ Atmospheric rivers:
 4. Calculate anomalies from the mean number of atmospheric rivers using AR_notrack_3.calcanoms.ipynb
 
 5. Assign atmospheric river anomalies to regimes using AR_notrack_4.assign_clusters.ipynb
+
+6. Plot atmospheric river anomaly composites for the regimes using AR_notrack_5.plot_composites.ipynb
