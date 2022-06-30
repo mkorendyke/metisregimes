@@ -29,3 +29,5 @@ Atmospheric rivers:
 3. Identify atmospheric rivers given moisture flux using AR_notrack_2.ipynb
 
 4. Calculate anomalies from the mean number of atmospheric rivers using AR_notrack_3.calcanoms.ipynb
+
+5. Assign atmospheric river anomalies to regimes using AR_notrack_4.assign_clusters.ipynb
