@@ -7,4 +7,6 @@ Data used:
 
 1. Low-pass filter the data using hpfilter_twice.ipynb
 
-2. Remove the seasonal cycle and calculate anomalies using
+2. Remove the seasonal cycle and calculate anomalies using calcanoms_3_NDJFM_twice.ipynb
+
+3. Perform PCA on the anomalies using calcPCs_4.ipynb
