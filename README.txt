@@ -10,3 +10,5 @@ Data used:
 2. Remove the seasonal cycle and calculate anomalies using calcanoms_3_NDJFM_twice.ipynb
 
 3. Perform PCA on the anomalies using calcPCs_4.ipynb
+
+4. Calculate clusters from first 12 PCs
