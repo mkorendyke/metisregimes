@@ -23,6 +23,7 @@ Data used:
 Atmospheric rivers:
 
 1. Get atmospheric river variables from ERA5: subset.AR.ERA5.ipynb
+  - Note that this code allows the user to choose the grid resolution: N32 or N128
 
 2. For ERA5 data: calculate moisture flux using calc_vqvi.AR.ERA5.ipynb
 
