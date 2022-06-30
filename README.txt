@@ -33,3 +33,5 @@ Atmospheric rivers:
 5. Assign atmospheric river anomalies to regimes using AR_notrack_4.assign_clusters.ipynb
 
 6. Plot atmospheric river anomaly composites for the regimes using AR_notrack_5.plot_composites.ipynb
+
+7. Plot the total atmospheric rivers calculated in ERA5 and metis using AR_notrack_5.plot_totals.ipynb
